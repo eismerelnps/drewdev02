@@ -15,6 +15,7 @@ Here are some ideas to get you started:
   
 <a href="mailto:andrey.rgz.2016@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdev02)
+<a href="https://github.com/drewdev02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdev02&layout=compact&theme=buefy&hide_border=true" /></a>
 ---
 ### 🚀 Coding
 <br/>
