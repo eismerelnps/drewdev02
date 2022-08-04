@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-**Andrey Rdodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Andrey Rdodriguez** is a ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)
+
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -21,8 +23,11 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
 
 <br/>
 
 ---
+<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />
