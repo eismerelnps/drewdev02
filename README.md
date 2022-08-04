@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with what I can...
 ---
   
-<a href="mailto:andrey.rgz.2016@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewdev02)
 <a href="https://github.com/drewdev02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdev02&layout=compact&theme=buefy&hide_border=true" /></a>
 ---
+<a href="mailto:andrey.rgz.2016@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+
 ### 🚀 Coding
 <br/>
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
