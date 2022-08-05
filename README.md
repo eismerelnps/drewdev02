@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ---
-h
+
 ### 🚀 Coding
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -26,8 +26,9 @@ h
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br/>
 
-<a href="https://github.com/drewdev02/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdev02&layout=compact&theme=buefy&hide_border=true" /></a>
+---
 
+<a href="https://github.com/drewdev02/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdev02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
 ---
