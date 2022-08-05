@@ -1,6 +1,6 @@
-
+<h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+R....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+Rdz....;Nice+to+meet+you!&center=true&size=30">
   </a>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)
