@@ -1,7 +1,9 @@
-<h1 align="center">
- <a href="https://git.io/typing-svg">
+
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+Rdz....;Nice+to+meet+you!&center=true&size=30">
   </a>
+
+---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)
 
@@ -11,9 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning java...
 - 👯 Looking to collaborate on related projects...
 - 🤔 I'm looking for help with what I can...
----
-<a href="mailto:andrey.rgz.2016@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-
 
 
 ---
