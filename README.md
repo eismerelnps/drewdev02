@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ---
 ### 🎧 Spotify Playing
-<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="adrewdev spotify playing" width="350" />
+<img align="center" src="https://spotify-now-playing-roan-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="adrewdev spotify playing" width="350" />
