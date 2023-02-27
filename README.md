@@ -1,4 +1,4 @@
-
+<div align="center">
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+Rdz....;Nice+to+meet+you!&center=true&size=30">
   </a>
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ---
 ### 🎧 Spotify Playing
 <img align="center" src="https://spotify-now-playing-roan-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="adrewdev spotify playing" width="350" />
+ </div>
